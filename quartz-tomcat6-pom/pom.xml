@@ -18,7 +18,7 @@
             1. mvn compile war:war
 
             Run
-            1. put the war file, c:\<workspace>\quartz-tomcat6\target\quartz-tomcat6-0.0.1-SNAPSHOT.war, in the c:\[tomcat_installation_directory]\webapps\, and run startup.bat
+            1. put the war file, c:\<workspace>\quartz-tomcat6-pom\target\quartz-tomcat6-0.0.1-SNAPSHOT.war, in the c:\[tomcat_installation_directory]\webapps\, and run startup.bat
             
        
      -->
